@@ -1,0 +1,134 @@
+{
+  "dataset": "GenuineClickedIndoorA12",
+  "sourceFolder": "C:\\Users\\HAMZA\\OneDrive\\Desktop\\KhareedLe-Ecommerce\\XARENA_R&D\\xarqrcode\\xarsignaturesystem\\Datasets\\GenuineClickedIndoorA12",
+  "processedFileCount": 11,
+  "skippedFileCount": 0,
+  "statistics": {
+    "ForensicData": {
+      "bleedScore": {
+        "count": 4400,
+        "min": 1.176,
+        "max": 54.898,
+        "mean": 15.797922954545456,
+        "avg": 15.797922954545456,
+        "std": 9.900091687739812
+      },
+      "edgeDensity": {
+        "count": 4400,
+        "min": 0.00438,
+        "max": 0.29,
+        "mean": 0.12294506136363635,
+        "avg": 0.12294506136363635,
+        "std": 0.04426094594402464
+      },
+      "edgeTurbulence": {
+        "count": 4400,
+        "min": 16.83,
+        "max": 115.709,
+        "mean": 81.88441022727274,
+        "avg": 81.88441022727274,
+        "std": 13.386024465977904
+      },
+      "localVariance": {
+        "count": 4400,
+        "min": 2.848,
+        "max": 112.868,
+        "mean": 46.351400681818184,
+        "avg": 46.351400681818184,
+        "std": 20.61014680195941
+      }
+    },
+    "PhysicalPrintData": {
+      "bleedScore": {
+        "count": 11,
+        "min": 13.967,
+        "max": 16.342,
+        "mean": 14.92890909090909,
+        "avg": 14.92890909090909,
+        "std": 0.680217539340501
+      },
+      "dotCircularity": {
+        "count": 11,
+        "min": 0.657,
+        "max": 0.707,
+        "mean": 0.6780909090909092,
+        "avg": 0.6780909090909092,
+        "std": 0.01573331465657011
+      },
+      "edgeTurbulence": {
+        "count": 11,
+        "min": 81.983,
+        "max": 87.193,
+        "mean": 84.30745454545455,
+        "avg": 84.30745454545455,
+        "std": 1.4404315870685405
+      },
+      "lineContinuity": {
+        "count": 11,
+        "min": 44.555,
+        "max": 53.616,
+        "mean": 47.97981818181818,
+        "avg": 47.97981818181818,
+        "std": 2.5794619882371457
+      },
+      "localVariance": {
+        "count": 11,
+        "min": 62.035,
+        "max": 70.223,
+        "mean": 65.90209090909092,
+        "avg": 65.90209090909092,
+        "std": 2.699674574817743
+      }
+    },
+    "QRGeometryData": {
+      "cornerSharpness": {
+        "count": 11,
+        "min": 200.0,
+        "max": 200.0,
+        "mean": 200.0,
+        "avg": 200.0,
+        "std": 0.0
+      },
+      "edgeTurbulence": {
+        "count": 11,
+        "min": 30.576,
+        "max": 38.115,
+        "mean": 36.15718181818182,
+        "avg": 36.15718181818182,
+        "std": 2.1369303735703706
+      },
+      "moduleUniformity": {
+        "count": 11,
+        "min": 0.02,
+        "max": 0.027,
+        "mean": 0.023272727272727275,
+        "avg": 0.023272727272727275,
+        "std": 0.002377581241931276
+      },
+      "spacingVariance": {
+        "count": 11,
+        "min": 0.0,
+        "max": 0.0,
+        "mean": 0.0,
+        "avg": 0.0,
+        "std": 0.0
+      },
+      "syntheticRisk": {
+        "count": 11,
+        "min": 45.0,
+        "max": 45.0,
+        "mean": 45.0,
+        "avg": 45.0,
+        "std": 0.0
+      }
+    }
+  },
+  "physicalStabilityReport": {
+    "bleedScoreStd": 0.680217539340501,
+    "lineContinuityStd": 2.5794619882371457,
+    "dotCircularityStd": 0.01573331465657011,
+    "edgeTurbulenceStd": 1.4404315870685405,
+    "localVarianceStd": 2.699674574817743
+  },
+  "skippedFiles": []
+}

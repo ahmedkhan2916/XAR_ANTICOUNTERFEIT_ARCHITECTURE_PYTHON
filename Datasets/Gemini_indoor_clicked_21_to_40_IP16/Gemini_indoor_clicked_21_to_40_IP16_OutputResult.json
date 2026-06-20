@@ -1,0 +1,139 @@
+{
+  "dataset": "Gemini_indoor_clicked_21_to_40_IP16",
+  "sourceFolder": "Datasets\\Gemini_indoor_clicked_21_to_40_IP16",
+  "processedFileCount": 20,
+  "skippedFileCount": 0,
+  "statistics": {
+    "ForensicData": {
+      "bleedScore": {
+        "count": 8000,
+        "min": 2.947,
+        "max": 61.044,
+        "mean": 21.3079665,
+        "avg": 21.3079665,
+        "std": 9.594294714640453
+      },
+      "edgeDensity": {
+        "count": 8000,
+        "min": 0.00813,
+        "max": 0.31562,
+        "mean": 0.13676905,
+        "avg": 0.13676905,
+        "std": 0.04488278746242818
+      },
+      "edgeTurbulence": {
+        "count": 8000,
+        "min": 22.892,
+        "max": 118.515,
+        "mean": 85.99299462500001,
+        "avg": 85.99299462500001,
+        "std": 12.30013103100313
+      },
+      "localVariance": {
+        "count": 8000,
+        "min": 6.162,
+        "max": 114.458,
+        "mean": 54.192145375,
+        "avg": 54.192145375,
+        "std": 18.579558764230413
+      }
+    },
+    "PhysicalPrintData": {
+      "bleedScore": {
+        "count": 20,
+        "min": 16.295,
+        "max": 27.83,
+        "mean": 20.5286,
+        "avg": 20.5286,
+        "std": 3.120852614270657
+      },
+      "dotCircularity": {
+        "count": 20,
+        "min": 0.434,
+        "max": 0.708,
+        "mean": 0.6008,
+        "avg": 0.6008,
+        "std": 0.07542320597800121
+      },
+      "edgeTurbulence": {
+        "count": 20,
+        "min": 78.048,
+        "max": 91.893,
+        "mean": 87.33275,
+        "avg": 87.33275,
+        "std": 3.8146522892001564
+      },
+      "lineContinuity": {
+        "count": 20,
+        "min": 43.238,
+        "max": 58.965,
+        "mean": 49.8279,
+        "avg": 49.8279,
+        "std": 4.6424187111892445
+      },
+      "localVariance": {
+        "count": 20,
+        "min": 59.528,
+        "max": 81.743,
+        "mean": 72.9281,
+        "avg": 72.9281,
+        "std": 6.159423843997098
+      }
+    },
+    "QRGeometryData": {
+      "cornerSharpness": {
+        "count": 19,
+        "min": 200.0,
+        "max": 200.0,
+        "mean": 200.0,
+        "avg": 200.0,
+        "std": 0.0
+      },
+      "edgeTurbulence": {
+        "count": 19,
+        "min": 23.344,
+        "max": 117.566,
+        "mean": 43.33757894736842,
+        "avg": 43.33757894736842,
+        "std": 18.160458191286132
+      },
+      "moduleUniformity": {
+        "count": 19,
+        "min": 0.01,
+        "max": 0.032,
+        "mean": 0.02268421052631579,
+        "avg": 0.02268421052631579,
+        "std": 0.004180816233312737
+      },
+      "spacingVariance": {
+        "count": 19,
+        "min": 0.0,
+        "max": 0.0,
+        "mean": 0.0,
+        "avg": 0.0,
+        "std": 0.0
+      },
+      "syntheticRisk": {
+        "count": 19,
+        "min": 45.0,
+        "max": 45.0,
+        "mean": 45.0,
+        "avg": 45.0,
+        "std": 0.0
+      }
+    }
+  },
+  "physicalStabilityReport": {
+    "bleedScoreStd": 3.120852614270657,
+    "bleedScoreCV": 0.15202462000675435,
+    "lineContinuityStd": 4.6424187111892445,
+    "lineContinuityCV": 0.09316906213565582,
+    "dotCircularityStd": 0.07542320597800121,
+    "dotCircularityCV": 0.12553795935086753,
+    "edgeTurbulenceStd": 3.8146522892001564,
+    "edgeTurbulenceCV": 0.04367951643799326,
+    "localVarianceStd": 6.159423843997098,
+    "localVarianceCV": 0.08445885528345176
+  },
+  "skippedFiles": []
+}
