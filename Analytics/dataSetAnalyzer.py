@@ -6,8 +6,8 @@ from statistics import fmean, pstdev
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-FOLDER_PATH = PROJECT_ROOT / "Datasets" / "GenuineDaylightA12"
-OUTPUT_PATH = FOLDER_PATH / "GenuineDaylightA12_OutputResult.json"
+FOLDER_PATH = PROJECT_ROOT / "Datasets" / "Sunlight_GENUINE_A12_1_to_33"
+OUTPUT_PATH = FOLDER_PATH / "Sunlight_GENUINE_A12_1_to_33_OutputResult.json"
 
 
 def collect_numeric_fields(value, fields):

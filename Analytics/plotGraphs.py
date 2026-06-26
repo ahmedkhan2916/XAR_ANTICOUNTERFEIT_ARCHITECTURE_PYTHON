@@ -16,16 +16,16 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_AI_PATH = (
     PROJECT_ROOT
     / "Datasets"
-    / "GeminiAiPerfectDaylightA12"
-    / "GeminiAiPerfectDaylightA12_OutputResult.json"
+    / "Sunlight_GEMINI_AI_A12_SINGLEBORDER_1_to_33"
+    / "Sunlight_GEMINI_AI_A12_SINGLEBORDER_1_to_33_OutputResult.json"
 )
 DEFAULT_GENUINE_PATH = (
     PROJECT_ROOT
     / "Datasets"
-    / "GenuineDaylightA12"
-    / "GenuineDaylightA12_OutputResult.json"
+    / "Sunlight_GENUINE_A12_1_to_33"
+    / "Sunlight_GENUINE_A12_1_to_33_OutputResult.json"
 )
-DEFAULT_OUTPUT_PATH = Path(__file__).resolve().parent / "ai_vs_genuine_comparison3.png"
+DEFAULT_OUTPUT_PATH = Path(__file__).resolve().parent / "Gemini_AI_SingleBorderA12_SUNLIGHT_33STICKERS_vs_genuine_A12_SUNLIGHT_33STICKERS.png"
 
 METRICS = (
     ("bleedScore", "Bleed Score"),

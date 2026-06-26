@@ -1,0 +1,2427 @@
+{
+  "metaData": {
+    "stickerId": "Gemini_xar_test7_daylight_A12_SingleBorder",
+    "device": "SamsungA12",
+    "lightning": "Day_5:00pm",
+    "flash": false,
+    "distance": "medium",
+    "captureType": "ai",
+    "tilt": 4
+  },
+  "ForensicData": {
+    "region_0": {
+      "edgeTurbulence": 103.06,
+      "localVariance": 85.094,
+      "bleedScore": 26.926,
+      "edgeDensity": 0.20563
+    },
+    "region_1": {
+      "edgeTurbulence": 95.364,
+      "localVariance": 74.618,
+      "bleedScore": 22.739,
+      "edgeDensity": 0.16812
+    },
+    "region_2": {
+      "edgeTurbulence": 95.646,
+      "localVariance": 81.375,
+      "bleedScore": 23.861,
+      "edgeDensity": 0.16937
+    },
+    "region_3": {
+      "edgeTurbulence": 67.165,
+      "localVariance": 35.56,
+      "bleedScore": 9.203,
+      "edgeDensity": 0.075
+    },
+    "region_4": {
+      "edgeTurbulence": 55.904,
+      "localVariance": 21.044,
+      "bleedScore": 6.66,
+      "edgeDensity": 0.05063
+    },
+    "region_5": {
+      "edgeTurbulence": 67.93,
+      "localVariance": 36.769,
+      "bleedScore": 11.027,
+      "edgeDensity": 0.07687
+    },
+    "region_6": {
+      "edgeTurbulence": 69.426,
+      "localVariance": 38.337,
+      "bleedScore": 11.863,
+      "edgeDensity": 0.08063
+    },
+    "region_7": {
+      "edgeTurbulence": 58.753,
+      "localVariance": 32.275,
+      "bleedScore": 10.603,
+      "edgeDensity": 0.05625
+    },
+    "region_8": {
+      "edgeTurbulence": 56.229,
+      "localVariance": 21.718,
+      "bleedScore": 7.404,
+      "edgeDensity": 0.05125
+    },
+    "region_9": {
+      "edgeTurbulence": 59.665,
+      "localVariance": 29.467,
+      "bleedScore": 9.704,
+      "edgeDensity": 0.05813
+    },
+    "region_10": {
+      "edgeTurbulence": 45.636,
+      "localVariance": 18.521,
+      "bleedScore": 6.138,
+      "edgeDensity": 0.03313
+    },
+    "region_11": {
+      "edgeTurbulence": 63.423,
+      "localVariance": 33.624,
+      "bleedScore": 10.24,
+      "edgeDensity": 0.06625
+    },
+    "region_12": {
+      "edgeTurbulence": 32.845,
+      "localVariance": 9.591,
+      "bleedScore": 4.132,
+      "edgeDensity": 0.01688
+    },
+    "region_13": {
+      "edgeTurbulence": 48.446,
+      "localVariance": 26.121,
+      "bleedScore": 8.065,
+      "edgeDensity": 0.0375
+    },
+    "region_14": {
+      "edgeTurbulence": 54.578,
+      "localVariance": 27.545,
+      "bleedScore": 8.855,
+      "edgeDensity": 0.04813
+    },
+    "region_15": {
+      "edgeTurbulence": 47.265,
+      "localVariance": 22.808,
+      "bleedScore": 7.145,
+      "edgeDensity": 0.03562
+    },
+    "region_16": {
+      "edgeTurbulence": 23.748,
+      "localVariance": 6.508,
+      "bleedScore": 2.796,
+      "edgeDensity": 0.00875
+    },
+    "region_17": {
+      "edgeTurbulence": 86.28,
+      "localVariance": 73.964,
+      "bleedScore": 20.698,
+      "edgeDensity": 0.13187
+    },
+    "region_18": {
+      "edgeTurbulence": 84.152,
+      "localVariance": 64.677,
+      "bleedScore": 20.065,
+      "edgeDensity": 0.12437
+    },
+    "region_19": {
+      "edgeTurbulence": 84.514,
+      "localVariance": 63.306,
+      "bleedScore": 18.94,
+      "edgeDensity": 0.12562
+    },
+    "region_20": {
+      "edgeTurbulence": 91.365,
+      "localVariance": 74.516,
+      "bleedScore": 23.894,
+      "edgeDensity": 0.15125
+    },
+    "region_21": {
+      "edgeTurbulence": 82.114,
+      "localVariance": 66.247,
+      "bleedScore": 20.914,
+      "edgeDensity": 0.1175
+    },
+    "region_22": {
+      "edgeTurbulence": 83.236,
+      "localVariance": 69.132,
+      "bleedScore": 21.856,
+      "edgeDensity": 0.12125
+    },
+    "region_23": {
+      "edgeTurbulence": 49.215,
+      "localVariance": 16.325,
+      "bleedScore": 6.014,
+      "edgeDensity": 0.03875
+    },
+    "region_24": {
+      "edgeTurbulence": 54.913,
+      "localVariance": 35.787,
+      "bleedScore": 10.943,
+      "edgeDensity": 0.04875
+    },
+    "region_25": {
+      "edgeTurbulence": 57.509,
+      "localVariance": 17.601,
+      "bleedScore": 5.11,
+      "edgeDensity": 0.05375
+    },
+    "region_26": {
+      "edgeTurbulence": 72.287,
+      "localVariance": 25.194,
+      "bleedScore": 7.599,
+      "edgeDensity": 0.08812
+    },
+    "region_27": {
+      "edgeTurbulence": 55.904,
+      "localVariance": 23.552,
+      "bleedScore": 8.096,
+      "edgeDensity": 0.05063
+    },
+    "region_28": {
+      "edgeTurbulence": 25.372,
+      "localVariance": 11.089,
+      "bleedScore": 4.223,
+      "edgeDensity": 0.01
+    },
+    "region_29": {
+      "edgeTurbulence": 63.976,
+      "localVariance": 38.034,
+      "bleedScore": 11.941,
+      "edgeDensity": 0.0675
+    },
+    "region_30": {
+      "edgeTurbulence": 61.726,
+      "localVariance": 37.996,
+      "bleedScore": 12.767,
+      "edgeDensity": 0.0625
+    },
+    "region_31": {
+      "edgeTurbulence": 48.056,
+      "localVariance": 14.139,
+      "bleedScore": 5.131,
+      "edgeDensity": 0.03687
+    },
+    "region_32": {
+      "edgeTurbulence": 69.18,
+      "localVariance": 40.565,
+      "bleedScore": 12.012,
+      "edgeDensity": 0.08
+    },
+    "region_33": {
+      "edgeTurbulence": 42.611,
+      "localVariance": 14.401,
+      "bleedScore": 5.95,
+      "edgeDensity": 0.02875
+    },
+    "region_34": {
+      "edgeTurbulence": 34.018,
+      "localVariance": 12.19,
+      "bleedScore": 4.709,
+      "edgeDensity": 0.01812
+    },
+    "region_35": {
+      "edgeTurbulence": 70.638,
+      "localVariance": 29.586,
+      "bleedScore": 9.566,
+      "edgeDensity": 0.08375
+    },
+    "region_36": {
+      "edgeTurbulence": 32.241,
+      "localVariance": 10.478,
+      "bleedScore": 4.378,
+      "edgeDensity": 0.01625
+    },
+    "region_37": {
+      "edgeTurbulence": 86.626,
+      "localVariance": 75.938,
+      "bleedScore": 21.959,
+      "edgeDensity": 0.13312
+    },
+    "region_38": {
+      "edgeTurbulence": 85.051,
+      "localVariance": 69.558,
+      "bleedScore": 21.706,
+      "edgeDensity": 0.1275
+    },
+    "region_39": {
+      "edgeTurbulence": 84.152,
+      "localVariance": 62.924,
+      "bleedScore": 21.796,
+      "edgeDensity": 0.12437
+    },
+    "region_40": {
+      "edgeTurbulence": 90.424,
+      "localVariance": 78.051,
+      "bleedScore": 23.062,
+      "edgeDensity": 0.1475
+    },
+    "region_41": {
+      "edgeTurbulence": 83.421,
+      "localVariance": 70.222,
+      "bleedScore": 21.193,
+      "edgeDensity": 0.12187
+    },
+    "region_42": {
+      "edgeTurbulence": 83.236,
+      "localVariance": 73.957,
+      "bleedScore": 21.819,
+      "edgeDensity": 0.12125
+    },
+    "region_43": {
+      "edgeTurbulence": 26.145,
+      "localVariance": 5.408,
+      "bleedScore": 2.321,
+      "edgeDensity": 0.01063
+    },
+    "region_44": {
+      "edgeTurbulence": 47.265,
+      "localVariance": 17.051,
+      "bleedScore": 6.045,
+      "edgeDensity": 0.03562
+    },
+    "region_45": {
+      "edgeTurbulence": 86.969,
+      "localVariance": 65.051,
+      "bleedScore": 19.116,
+      "edgeDensity": 0.13437
+    },
+    "region_46": {
+      "edgeTurbulence": 70.638,
+      "localVariance": 22.054,
+      "bleedScore": 6.759,
+      "edgeDensity": 0.08375
+    },
+    "region_47": {
+      "edgeTurbulence": 67.165,
+      "localVariance": 31.529,
+      "bleedScore": 10.194,
+      "edgeDensity": 0.075
+    },
+    "region_48": {
+      "edgeTurbulence": 86.28,
+      "localVariance": 32.807,
+      "bleedScore": 10.43,
+      "edgeDensity": 0.13187
+    },
+    "region_49": {
+      "edgeTurbulence": 43.5,
+      "localVariance": 14.408,
+      "bleedScore": 5.191,
+      "edgeDensity": 0.03
+    },
+    "region_50": {
+      "edgeTurbulence": 66.648,
+      "localVariance": 24.598,
+      "bleedScore": 8.86,
+      "edgeDensity": 0.07375
+    },
+    "region_51": {
+      "edgeTurbulence": 82.114,
+      "localVariance": 31.958,
+      "bleedScore": 10.897,
+      "edgeDensity": 0.1175
+    },
+    "region_52": {
+      "edgeTurbulence": 62.582,
+      "localVariance": 17.017,
+      "bleedScore": 6.268,
+      "edgeDensity": 0.06438
+    },
+    "region_53": {
+      "edgeTurbulence": 59.059,
+      "localVariance": 26.816,
+      "bleedScore": 9.894,
+      "edgeDensity": 0.05688
+    },
+    "region_54": {
+      "edgeTurbulence": 48.056,
+      "localVariance": 13.511,
+      "bleedScore": 5.229,
+      "edgeDensity": 0.03687
+    },
+    "region_55": {
+      "edgeTurbulence": 59.965,
+      "localVariance": 15.724,
+      "bleedScore": 6.113,
+      "edgeDensity": 0.05875
+    },
+    "region_56": {
+      "edgeTurbulence": 62.013,
+      "localVariance": 31.18,
+      "bleedScore": 9.302,
+      "edgeDensity": 0.06313
+    },
+    "region_57": {
+      "edgeTurbulence": 87.309,
+      "localVariance": 77.612,
+      "bleedScore": 23.511,
+      "edgeDensity": 0.13562
+    },
+    "region_58": {
+      "edgeTurbulence": 85.582,
+      "localVariance": 72.466,
+      "bleedScore": 22.406,
+      "edgeDensity": 0.12937
+    },
+    "region_59": {
+      "edgeTurbulence": 85.405,
+      "localVariance": 69.648,
+      "bleedScore": 22.755,
+      "edgeDensity": 0.12875
+    },
+    "region_60": {
+      "edgeTurbulence": 52.511,
+      "localVariance": 14.894,
+      "bleedScore": 4.356,
+      "edgeDensity": 0.04437
+    },
+    "region_61": {
+      "edgeTurbulence": 16.83,
+      "localVariance": 2.151,
+      "bleedScore": 0.98,
+      "edgeDensity": 0.00438
+    },
+    "region_62": {
+      "edgeTurbulence": 38.327,
+      "localVariance": 13.26,
+      "bleedScore": 4.737,
+      "edgeDensity": 0.02312
+    },
+    "region_63": {
+      "edgeTurbulence": 90.106,
+      "localVariance": 45.361,
+      "bleedScore": 13.556,
+      "edgeDensity": 0.14625
+    },
+    "region_64": {
+      "edgeTurbulence": 63.144,
+      "localVariance": 18.474,
+      "bleedScore": 5.264,
+      "edgeDensity": 0.06563
+    },
+    "region_65": {
+      "edgeTurbulence": 94.651,
+      "localVariance": 48.016,
+      "bleedScore": 14.729,
+      "edgeDensity": 0.165
+    },
+    "region_66": {
+      "edgeTurbulence": 98.1,
+      "localVariance": 73.798,
+      "bleedScore": 23.307,
+      "edgeDensity": 0.18063
+    },
+    "region_67": {
+      "edgeTurbulence": 60.263,
+      "localVariance": 16.691,
+      "bleedScore": 5.888,
+      "edgeDensity": 0.05937
+    },
+    "region_68": {
+      "edgeTurbulence": 70.157,
+      "localVariance": 23.202,
+      "bleedScore": 8.151,
+      "edgeDensity": 0.0825
+    },
+    "region_69": {
+      "edgeTurbulence": 65.062,
+      "localVariance": 37.732,
+      "bleedScore": 12.515,
+      "edgeDensity": 0.07
+    },
+    "region_70": {
+      "edgeTurbulence": 59.059,
+      "localVariance": 17.546,
+      "bleedScore": 6.839,
+      "edgeDensity": 0.05688
+    },
+    "region_71": {
+      "edgeTurbulence": 94.362,
+      "localVariance": 51.239,
+      "bleedScore": 16.255,
+      "edgeDensity": 0.16375
+    },
+    "region_72": {
+      "edgeTurbulence": 92.889,
+      "localVariance": 53.418,
+      "bleedScore": 17.642,
+      "edgeDensity": 0.1575
+    },
+    "region_73": {
+      "edgeTurbulence": 56.553,
+      "localVariance": 15.958,
+      "bleedScore": 6.129,
+      "edgeDensity": 0.05187
+    },
+    "region_74": {
+      "edgeTurbulence": 71.115,
+      "localVariance": 40.127,
+      "bleedScore": 13.293,
+      "edgeDensity": 0.085
+    },
+    "region_75": {
+      "edgeTurbulence": 46.864,
+      "localVariance": 16.637,
+      "bleedScore": 6.264,
+      "edgeDensity": 0.035
+    },
+    "region_76": {
+      "edgeTurbulence": 59.363,
+      "localVariance": 18.779,
+      "bleedScore": 6.784,
+      "edgeDensity": 0.0575
+    },
+    "region_77": {
+      "edgeTurbulence": 47.662,
+      "localVariance": 20.878,
+      "bleedScore": 6.713,
+      "edgeDensity": 0.03625
+    },
+    "region_78": {
+      "edgeTurbulence": 53.211,
+      "localVariance": 32.826,
+      "bleedScore": 10.189,
+      "edgeDensity": 0.04562
+    },
+    "region_79": {
+      "edgeTurbulence": 25.372,
+      "localVariance": 8.901,
+      "bleedScore": 2.85,
+      "edgeDensity": 0.01
+    },
+    "region_80": {
+      "edgeTurbulence": 59.665,
+      "localVariance": 36.424,
+      "bleedScore": 12.037,
+      "edgeDensity": 0.05813
+    },
+    "region_81": {
+      "edgeTurbulence": 77.343,
+      "localVariance": 31.721,
+      "bleedScore": 9.981,
+      "edgeDensity": 0.1025
+    },
+    "region_82": {
+      "edgeTurbulence": 61.726,
+      "localVariance": 19.838,
+      "bleedScore": 5.273,
+      "edgeDensity": 0.0625
+    },
+    "region_83": {
+      "edgeTurbulence": 70.157,
+      "localVariance": 25.182,
+      "bleedScore": 9.207,
+      "edgeDensity": 0.0825
+    },
+    "region_84": {
+      "edgeTurbulence": 72.054,
+      "localVariance": 31.676,
+      "bleedScore": 10.692,
+      "edgeDensity": 0.0875
+    },
+    "region_85": {
+      "edgeTurbulence": 66.648,
+      "localVariance": 21.216,
+      "bleedScore": 7.683,
+      "edgeDensity": 0.07375
+    },
+    "region_86": {
+      "edgeTurbulence": 97.163,
+      "localVariance": 50.763,
+      "bleedScore": 15.881,
+      "edgeDensity": 0.17625
+    },
+    "region_87": {
+      "edgeTurbulence": 75.858,
+      "localVariance": 43.517,
+      "bleedScore": 14.029,
+      "edgeDensity": 0.09813
+    },
+    "region_88": {
+      "edgeTurbulence": 54.578,
+      "localVariance": 17.269,
+      "bleedScore": 6.57,
+      "edgeDensity": 0.04813
+    },
+    "region_89": {
+      "edgeTurbulence": 84.693,
+      "localVariance": 32.423,
+      "bleedScore": 10.988,
+      "edgeDensity": 0.12625
+    },
+    "region_90": {
+      "edgeTurbulence": 96.065,
+      "localVariance": 57.042,
+      "bleedScore": 18.335,
+      "edgeDensity": 0.17125
+    },
+    "region_91": {
+      "edgeTurbulence": 61.437,
+      "localVariance": 20.657,
+      "bleedScore": 7.143,
+      "edgeDensity": 0.06187
+    },
+    "region_92": {
+      "edgeTurbulence": 72.976,
+      "localVariance": 29.756,
+      "bleedScore": 9.938,
+      "edgeDensity": 0.09
+    },
+    "region_93": {
+      "edgeTurbulence": 94.795,
+      "localVariance": 67.134,
+      "bleedScore": 22.351,
+      "edgeDensity": 0.16562
+    },
+    "region_94": {
+      "edgeTurbulence": 43.058,
+      "localVariance": 15.404,
+      "bleedScore": 5.918,
+      "edgeDensity": 0.02937
+    },
+    "region_95": {
+      "edgeTurbulence": 99.657,
+      "localVariance": 68.651,
+      "bleedScore": 21.871,
+      "edgeDensity": 0.18812
+    },
+    "region_96": {
+      "edgeTurbulence": 70.157,
+      "localVariance": 20.099,
+      "bleedScore": 7.088,
+      "edgeDensity": 0.0825
+    },
+    "region_97": {
+      "edgeTurbulence": 48.056,
+      "localVariance": 11.522,
+      "bleedScore": 3.844,
+      "edgeDensity": 0.03687
+    },
+    "region_98": {
+      "edgeTurbulence": 52.511,
+      "localVariance": 23.576,
+      "bleedScore": 7.376,
+      "edgeDensity": 0.04437
+    },
+    "region_99": {
+      "edgeTurbulence": 45.636,
+      "localVariance": 23.097,
+      "bleedScore": 7.805,
+      "edgeDensity": 0.03313
+    },
+    "region_100": {
+      "edgeTurbulence": 58.753,
+      "localVariance": 22.208,
+      "bleedScore": 6.996,
+      "edgeDensity": 0.05625
+    },
+    "region_101": {
+      "edgeTurbulence": 96.618,
+      "localVariance": 63.671,
+      "bleedScore": 20.666,
+      "edgeDensity": 0.17375
+    },
+    "region_102": {
+      "edgeTurbulence": 87.309,
+      "localVariance": 44.836,
+      "bleedScore": 13.337,
+      "edgeDensity": 0.13562
+    },
+    "region_103": {
+      "edgeTurbulence": 69.671,
+      "localVariance": 22.654,
+      "bleedScore": 6.475,
+      "edgeDensity": 0.08125
+    },
+    "region_104": {
+      "edgeTurbulence": 74.77,
+      "localVariance": 24.344,
+      "bleedScore": 9.115,
+      "edgeDensity": 0.095
+    },
+    "region_105": {
+      "edgeTurbulence": 97.835,
+      "localVariance": 57.294,
+      "bleedScore": 17.56,
+      "edgeDensity": 0.17938
+    },
+    "region_106": {
+      "edgeTurbulence": 67.676,
+      "localVariance": 18.324,
+      "bleedScore": 6.697,
+      "edgeDensity": 0.07625
+    },
+    "region_107": {
+      "edgeTurbulence": 77.965,
+      "localVariance": 40.148,
+      "bleedScore": 14.598,
+      "edgeDensity": 0.10437
+    },
+    "region_108": {
+      "edgeTurbulence": 84.152,
+      "localVariance": 33.776,
+      "bleedScore": 11.421,
+      "edgeDensity": 0.12437
+    },
+    "region_109": {
+      "edgeTurbulence": 63.423,
+      "localVariance": 19.963,
+      "bleedScore": 7.124,
+      "edgeDensity": 0.06625
+    },
+    "region_110": {
+      "edgeTurbulence": 87.479,
+      "localVariance": 36.12,
+      "bleedScore": 11.856,
+      "edgeDensity": 0.13625
+    },
+    "region_111": {
+      "edgeTurbulence": 77.759,
+      "localVariance": 41.336,
+      "bleedScore": 12.939,
+      "edgeDensity": 0.10375
+    },
+    "region_112": {
+      "edgeTurbulence": 70.638,
+      "localVariance": 18.698,
+      "bleedScore": 7.119,
+      "edgeDensity": 0.08375
+    },
+    "region_113": {
+      "edgeTurbulence": 92.437,
+      "localVariance": 44.694,
+      "bleedScore": 14.033,
+      "edgeDensity": 0.15563
+    },
+    "region_114": {
+      "edgeTurbulence": 55.904,
+      "localVariance": 36.998,
+      "bleedScore": 12.335,
+      "edgeDensity": 0.05063
+    },
+    "region_115": {
+      "edgeTurbulence": 58.135,
+      "localVariance": 13.81,
+      "bleedScore": 4.938,
+      "edgeDensity": 0.055
+    },
+    "region_116": {
+      "edgeTurbulence": 78.171,
+      "localVariance": 30.545,
+      "bleedScore": 9.756,
+      "edgeDensity": 0.105
+    },
+    "region_117": {
+      "edgeTurbulence": 81.158,
+      "localVariance": 46.514,
+      "bleedScore": 14.377,
+      "edgeDensity": 0.11438
+    },
+    "region_118": {
+      "edgeTurbulence": 68.684,
+      "localVariance": 16.446,
+      "bleedScore": 5.729,
+      "edgeDensity": 0.07875
+    },
+    "region_119": {
+      "edgeTurbulence": 64.793,
+      "localVariance": 37.576,
+      "bleedScore": 10.964,
+      "edgeDensity": 0.06938
+    },
+    "region_120": {
+      "edgeTurbulence": 69.426,
+      "localVariance": 35.591,
+      "bleedScore": 13.809,
+      "edgeDensity": 0.08063
+    },
+    "region_121": {
+      "edgeTurbulence": 49.215,
+      "localVariance": 16.431,
+      "bleedScore": 5.175,
+      "edgeDensity": 0.03875
+    },
+    "region_122": {
+      "edgeTurbulence": 95.223,
+      "localVariance": 40.618,
+      "bleedScore": 12.439,
+      "edgeDensity": 0.1675
+    },
+    "region_123": {
+      "edgeTurbulence": 76.923,
+      "localVariance": 24.511,
+      "bleedScore": 8.029,
+      "edgeDensity": 0.10125
+    },
+    "region_124": {
+      "edgeTurbulence": 68.932,
+      "localVariance": 21.105,
+      "bleedScore": 8.296,
+      "edgeDensity": 0.07938
+    },
+    "region_125": {
+      "edgeTurbulence": 78.376,
+      "localVariance": 30.326,
+      "bleedScore": 10.771,
+      "edgeDensity": 0.10562
+    },
+    "region_126": {
+      "edgeTurbulence": 69.914,
+      "localVariance": 25.73,
+      "bleedScore": 10.138,
+      "edgeDensity": 0.08188
+    },
+    "region_127": {
+      "edgeTurbulence": 74.549,
+      "localVariance": 23.94,
+      "bleedScore": 8.744,
+      "edgeDensity": 0.09438
+    },
+    "region_128": {
+      "edgeTurbulence": 45.636,
+      "localVariance": 22.618,
+      "bleedScore": 9.779,
+      "edgeDensity": 0.03313
+    },
+    "region_129": {
+      "edgeTurbulence": 76.712,
+      "localVariance": 36.769,
+      "bleedScore": 13.962,
+      "edgeDensity": 0.10063
+    },
+    "region_130": {
+      "edgeTurbulence": 52.863,
+      "localVariance": 18.012,
+      "bleedScore": 9.884,
+      "edgeDensity": 0.045
+    },
+    "region_131": {
+      "edgeTurbulence": 80.964,
+      "localVariance": 29.849,
+      "bleedScore": 13.616,
+      "edgeDensity": 0.11375
+    },
+    "region_132": {
+      "edgeTurbulence": 83.421,
+      "localVariance": 40.925,
+      "bleedScore": 16.224,
+      "edgeDensity": 0.12187
+    },
+    "region_133": {
+      "edgeTurbulence": 51.44,
+      "localVariance": 17.009,
+      "bleedScore": 6.853,
+      "edgeDensity": 0.0425
+    },
+    "region_134": {
+      "edgeTurbulence": 76.073,
+      "localVariance": 41.696,
+      "bleedScore": 14.102,
+      "edgeDensity": 0.09875
+    },
+    "region_135": {
+      "edgeTurbulence": 78.58,
+      "localVariance": 32.065,
+      "bleedScore": 11.098,
+      "edgeDensity": 0.10625
+    },
+    "region_136": {
+      "edgeTurbulence": 55.904,
+      "localVariance": 19.256,
+      "bleedScore": 7.746,
+      "edgeDensity": 0.05063
+    },
+    "region_137": {
+      "edgeTurbulence": 91.828,
+      "localVariance": 48.496,
+      "bleedScore": 13.752,
+      "edgeDensity": 0.15313
+    },
+    "region_138": {
+      "edgeTurbulence": 46.049,
+      "localVariance": 20.258,
+      "bleedScore": 7.114,
+      "edgeDensity": 0.03375
+    },
+    "region_139": {
+      "edgeTurbulence": 73.204,
+      "localVariance": 39.053,
+      "bleedScore": 11.678,
+      "edgeDensity": 0.09062
+    },
+    "region_140": {
+      "edgeTurbulence": 102.238,
+      "localVariance": 72.2,
+      "bleedScore": 26.926,
+      "edgeDensity": 0.20125
+    },
+    "region_141": {
+      "edgeTurbulence": 89.301,
+      "localVariance": 50.609,
+      "bleedScore": 14.912,
+      "edgeDensity": 0.14313
+    },
+    "region_142": {
+      "edgeTurbulence": 75.208,
+      "localVariance": 21.983,
+      "bleedScore": 6.832,
+      "edgeDensity": 0.09625
+    },
+    "region_143": {
+      "edgeTurbulence": 90.265,
+      "localVariance": 53.686,
+      "bleedScore": 16.31,
+      "edgeDensity": 0.14688
+    },
+    "region_144": {
+      "edgeTurbulence": 78.58,
+      "localVariance": 23.839,
+      "bleedScore": 7.576,
+      "edgeDensity": 0.10625
+    },
+    "region_145": {
+      "edgeTurbulence": 73.204,
+      "localVariance": 23.907,
+      "bleedScore": 9.309,
+      "edgeDensity": 0.09062
+    },
+    "region_146": {
+      "edgeTurbulence": 78.783,
+      "localVariance": 44.688,
+      "bleedScore": 16.831,
+      "edgeDensity": 0.10687
+    },
+    "region_147": {
+      "edgeTurbulence": 84.333,
+      "localVariance": 69.101,
+      "bleedScore": 27.446,
+      "edgeDensity": 0.125
+    },
+    "region_148": {
+      "edgeTurbulence": 91.053,
+      "localVariance": 72.227,
+      "bleedScore": 29.863,
+      "edgeDensity": 0.15
+    },
+    "region_149": {
+      "edgeTurbulence": 95.08,
+      "localVariance": 74.319,
+      "bleedScore": 30.869,
+      "edgeDensity": 0.16687
+    },
+    "region_150": {
+      "edgeTurbulence": 93.926,
+      "localVariance": 75.312,
+      "bleedScore": 31.624,
+      "edgeDensity": 0.16187
+    },
+    "region_151": {
+      "edgeTurbulence": 94.507,
+      "localVariance": 73.591,
+      "bleedScore": 35.571,
+      "edgeDensity": 0.16437
+    },
+    "region_152": {
+      "edgeTurbulence": 88.15,
+      "localVariance": 63.585,
+      "bleedScore": 27.77,
+      "edgeDensity": 0.13875
+    },
+    "region_153": {
+      "edgeTurbulence": 79.588,
+      "localVariance": 44.748,
+      "bleedScore": 17.526,
+      "edgeDensity": 0.10938
+    },
+    "region_154": {
+      "edgeTurbulence": 75.858,
+      "localVariance": 22.218,
+      "bleedScore": 7.605,
+      "edgeDensity": 0.09813
+    },
+    "region_155": {
+      "edgeTurbulence": 77.965,
+      "localVariance": 29.16,
+      "bleedScore": 10.021,
+      "edgeDensity": 0.10437
+    },
+    "region_156": {
+      "edgeTurbulence": 74.328,
+      "localVariance": 34.438,
+      "bleedScore": 12.052,
+      "edgeDensity": 0.09375
+    },
+    "region_157": {
+      "edgeTurbulence": 57.192,
+      "localVariance": 16.163,
+      "bleedScore": 6.274,
+      "edgeDensity": 0.05312
+    },
+    "region_158": {
+      "edgeTurbulence": 63.7,
+      "localVariance": 27.457,
+      "bleedScore": 10.078,
+      "edgeDensity": 0.06688
+    },
+    "region_159": {
+      "edgeTurbulence": 46.864,
+      "localVariance": 16.842,
+      "bleedScore": 5.337,
+      "edgeDensity": 0.035
+    },
+    "region_160": {
+      "edgeTurbulence": 67.93,
+      "localVariance": 41.064,
+      "bleedScore": 15.157,
+      "edgeDensity": 0.07687
+    },
+    "region_161": {
+      "edgeTurbulence": 96.204,
+      "localVariance": 58.499,
+      "bleedScore": 16.759,
+      "edgeDensity": 0.17188
+    },
+    "region_162": {
+      "edgeTurbulence": 78.58,
+      "localVariance": 25.571,
+      "bleedScore": 7.801,
+      "edgeDensity": 0.10625
+    },
+    "region_163": {
+      "edgeTurbulence": 65.062,
+      "localVariance": 21.014,
+      "bleedScore": 6.86,
+      "edgeDensity": 0.07
+    },
+    "region_164": {
+      "edgeTurbulence": 84.152,
+      "localVariance": 37.239,
+      "bleedScore": 11.963,
+      "edgeDensity": 0.12437
+    },
+    "region_165": {
+      "edgeTurbulence": 67.676,
+      "localVariance": 20.263,
+      "bleedScore": 7.039,
+      "edgeDensity": 0.07625
+    },
+    "region_166": {
+      "edgeTurbulence": 57.509,
+      "localVariance": 24.912,
+      "bleedScore": 9.396,
+      "edgeDensity": 0.05375
+    },
+    "region_167": {
+      "edgeTurbulence": 96.204,
+      "localVariance": 74.889,
+      "bleedScore": 35.077,
+      "edgeDensity": 0.17188
+    },
+    "region_168": {
+      "edgeTurbulence": 113.127,
+      "localVariance": 104.676,
+      "bleedScore": 48.553,
+      "edgeDensity": 0.26937
+    },
+    "region_169": {
+      "edgeTurbulence": 110.874,
+      "localVariance": 104.324,
+      "bleedScore": 45.406,
+      "edgeDensity": 0.25312
+    },
+    "region_170": {
+      "edgeTurbulence": 109.292,
+      "localVariance": 100.906,
+      "bleedScore": 45.087,
+      "edgeDensity": 0.2425
+    },
+    "region_171": {
+      "edgeTurbulence": 112.455,
+      "localVariance": 105.698,
+      "bleedScore": 51.586,
+      "edgeDensity": 0.26438
+    },
+    "region_172": {
+      "edgeTurbulence": 89.625,
+      "localVariance": 68.572,
+      "bleedScore": 28.989,
+      "edgeDensity": 0.14438
+    },
+    "region_173": {
+      "edgeTurbulence": 79.588,
+      "localVariance": 24.431,
+      "bleedScore": 9.887,
+      "edgeDensity": 0.10938
+    },
+    "region_174": {
+      "edgeTurbulence": 83.971,
+      "localVariance": 39.159,
+      "bleedScore": 12.311,
+      "edgeDensity": 0.12375
+    },
+    "region_175": {
+      "edgeTurbulence": 65.062,
+      "localVariance": 21.593,
+      "bleedScore": 8.474,
+      "edgeDensity": 0.07
+    },
+    "region_176": {
+      "edgeTurbulence": 91.519,
+      "localVariance": 50.835,
+      "bleedScore": 15.294,
+      "edgeDensity": 0.15188
+    },
+    "region_177": {
+      "edgeTurbulence": 68.183,
+      "localVariance": 38.309,
+      "bleedScore": 12.809,
+      "edgeDensity": 0.0775
+    },
+    "region_178": {
+      "edgeTurbulence": 41.701,
+      "localVariance": 12.272,
+      "bleedScore": 4.286,
+      "edgeDensity": 0.0275
+    },
+    "region_179": {
+      "edgeTurbulence": 74.77,
+      "localVariance": 36.696,
+      "bleedScore": 10.522,
+      "edgeDensity": 0.095
+    },
+    "region_180": {
+      "edgeTurbulence": 78.783,
+      "localVariance": 41.709,
+      "bleedScore": 16.402,
+      "edgeDensity": 0.10687
+    },
+    "region_181": {
+      "edgeTurbulence": 75.208,
+      "localVariance": 21.352,
+      "bleedScore": 6.696,
+      "edgeDensity": 0.09625
+    },
+    "region_182": {
+      "edgeTurbulence": 86.28,
+      "localVariance": 43.385,
+      "bleedScore": 14.839,
+      "edgeDensity": 0.13187
+    },
+    "region_183": {
+      "edgeTurbulence": 79.588,
+      "localVariance": 45.462,
+      "bleedScore": 14.29,
+      "edgeDensity": 0.10938
+    },
+    "region_184": {
+      "edgeTurbulence": 63.144,
+      "localVariance": 19.791,
+      "bleedScore": 6.469,
+      "edgeDensity": 0.06563
+    },
+    "region_185": {
+      "edgeTurbulence": 73.204,
+      "localVariance": 37.781,
+      "bleedScore": 12.478,
+      "edgeDensity": 0.09062
+    },
+    "region_186": {
+      "edgeTurbulence": 35.149,
+      "localVariance": 18.16,
+      "bleedScore": 7.957,
+      "edgeDensity": 0.01937
+    },
+    "region_187": {
+      "edgeTurbulence": 90.106,
+      "localVariance": 66.543,
+      "bleedScore": 29.929,
+      "edgeDensity": 0.14625
+    },
+    "region_188": {
+      "edgeTurbulence": 108.12,
+      "localVariance": 104.894,
+      "bleedScore": 45.929,
+      "edgeDensity": 0.235
+    },
+    "region_189": {
+      "edgeTurbulence": 108.318,
+      "localVariance": 101.347,
+      "bleedScore": 43.072,
+      "edgeDensity": 0.23625
+    },
+    "region_190": {
+      "edgeTurbulence": 107.719,
+      "localVariance": 104.205,
+      "bleedScore": 41.266,
+      "edgeDensity": 0.2325
+    },
+    "region_191": {
+      "edgeTurbulence": 108.614,
+      "localVariance": 103.943,
+      "bleedScore": 45.221,
+      "edgeDensity": 0.23813
+    },
+    "region_192": {
+      "edgeTurbulence": 93.926,
+      "localVariance": 76.674,
+      "bleedScore": 33.315,
+      "edgeDensity": 0.16187
+    },
+    "region_193": {
+      "edgeTurbulence": 64.25,
+      "localVariance": 20.087,
+      "bleedScore": 7.678,
+      "edgeDensity": 0.06813
+    },
+    "region_194": {
+      "edgeTurbulence": 94.072,
+      "localVariance": 39.436,
+      "bleedScore": 12.908,
+      "edgeDensity": 0.1625
+    },
+    "region_195": {
+      "edgeTurbulence": 81.543,
+      "localVariance": 36.981,
+      "bleedScore": 12.094,
+      "edgeDensity": 0.11563
+    },
+    "region_196": {
+      "edgeTurbulence": 66.648,
+      "localVariance": 19.909,
+      "bleedScore": 7.625,
+      "edgeDensity": 0.07375
+    },
+    "region_197": {
+      "edgeTurbulence": 90.74,
+      "localVariance": 48.597,
+      "bleedScore": 14.441,
+      "edgeDensity": 0.14875
+    },
+    "region_198": {
+      "edgeTurbulence": 57.192,
+      "localVariance": 39.888,
+      "bleedScore": 12.637,
+      "edgeDensity": 0.05312
+    },
+    "region_199": {
+      "edgeTurbulence": 28.331,
+      "localVariance": 11.101,
+      "bleedScore": 3.373,
+      "edgeDensity": 0.0125
+    },
+    "region_200": {
+      "edgeTurbulence": 71.115,
+      "localVariance": 47.593,
+      "bleedScore": 17.621,
+      "edgeDensity": 0.085
+    },
+    "region_201": {
+      "edgeTurbulence": 59.665,
+      "localVariance": 31.216,
+      "bleedScore": 10.422,
+      "edgeDensity": 0.05813
+    },
+    "region_202": {
+      "edgeTurbulence": 66.125,
+      "localVariance": 20.297,
+      "bleedScore": 6.997,
+      "edgeDensity": 0.0725
+    },
+    "region_203": {
+      "edgeTurbulence": 92.589,
+      "localVariance": 55.729,
+      "bleedScore": 16.845,
+      "edgeDensity": 0.15625
+    },
+    "region_204": {
+      "edgeTurbulence": 85.582,
+      "localVariance": 34.092,
+      "bleedScore": 11.284,
+      "edgeDensity": 0.12937
+    },
+    "region_205": {
+      "edgeTurbulence": 78.783,
+      "localVariance": 27.321,
+      "bleedScore": 9.977,
+      "edgeDensity": 0.10687
+    },
+    "region_206": {
+      "edgeTurbulence": 79.985,
+      "localVariance": 35.348,
+      "bleedScore": 11.553,
+      "edgeDensity": 0.11063
+    },
+    "region_207": {
+      "edgeTurbulence": 95.364,
+      "localVariance": 75.872,
+      "bleedScore": 32.913,
+      "edgeDensity": 0.16812
+    },
+    "region_208": {
+      "edgeTurbulence": 107.004,
+      "localVariance": 99.561,
+      "bleedScore": 43.191,
+      "edgeDensity": 0.22812
+    },
+    "region_209": {
+      "edgeTurbulence": 110.874,
+      "localVariance": 100.569,
+      "bleedScore": 45.031,
+      "edgeDensity": 0.25312
+    },
+    "region_210": {
+      "edgeTurbulence": 109.003,
+      "localVariance": 102.124,
+      "bleedScore": 43.196,
+      "edgeDensity": 0.24063
+    },
+    "region_211": {
+      "edgeTurbulence": 114.101,
+      "localVariance": 108.871,
+      "bleedScore": 50.311,
+      "edgeDensity": 0.27687
+    },
+    "region_212": {
+      "edgeTurbulence": 101.397,
+      "localVariance": 79.258,
+      "bleedScore": 36.866,
+      "edgeDensity": 0.19687
+    },
+    "region_213": {
+      "edgeTurbulence": 85.757,
+      "localVariance": 51.749,
+      "bleedScore": 16.503,
+      "edgeDensity": 0.13
+    },
+    "region_214": {
+      "edgeTurbulence": 59.665,
+      "localVariance": 21.544,
+      "bleedScore": 7.641,
+      "edgeDensity": 0.05813
+    },
+    "region_215": {
+      "edgeTurbulence": 88.647,
+      "localVariance": 41.558,
+      "bleedScore": 14.838,
+      "edgeDensity": 0.14062
+    },
+    "region_216": {
+      "edgeTurbulence": 89.138,
+      "localVariance": 44.448,
+      "bleedScore": 16.066,
+      "edgeDensity": 0.1425
+    },
+    "region_217": {
+      "edgeTurbulence": 72.054,
+      "localVariance": 18.593,
+      "bleedScore": 6.662,
+      "edgeDensity": 0.0875
+    },
+    "region_218": {
+      "edgeTurbulence": 73.204,
+      "localVariance": 40.783,
+      "bleedScore": 13.257,
+      "edgeDensity": 0.09062
+    },
+    "region_219": {
+      "edgeTurbulence": 77.343,
+      "localVariance": 41.095,
+      "bleedScore": 11.885,
+      "edgeDensity": 0.1025
+    },
+    "region_220": {
+      "edgeTurbulence": 70.398,
+      "localVariance": 31.233,
+      "bleedScore": 11.268,
+      "edgeDensity": 0.08313
+    },
+    "region_221": {
+      "edgeTurbulence": 72.518,
+      "localVariance": 26.783,
+      "bleedScore": 8.531,
+      "edgeDensity": 0.08875
+    },
+    "region_222": {
+      "edgeTurbulence": 87.309,
+      "localVariance": 51.445,
+      "bleedScore": 15.548,
+      "edgeDensity": 0.13562
+    },
+    "region_223": {
+      "edgeTurbulence": 74.105,
+      "localVariance": 24.997,
+      "bleedScore": 7.16,
+      "edgeDensity": 0.09312
+    },
+    "region_224": {
+      "edgeTurbulence": 87.479,
+      "localVariance": 48.618,
+      "bleedScore": 15.828,
+      "edgeDensity": 0.13625
+    },
+    "region_225": {
+      "edgeTurbulence": 94.795,
+      "localVariance": 46.761,
+      "bleedScore": 15.115,
+      "edgeDensity": 0.16562
+    },
+    "region_226": {
+      "edgeTurbulence": 62.582,
+      "localVariance": 21.652,
+      "bleedScore": 7.384,
+      "edgeDensity": 0.06438
+    },
+    "region_227": {
+      "edgeTurbulence": 99.784,
+      "localVariance": 76.073,
+      "bleedScore": 39.898,
+      "edgeDensity": 0.18875
+    },
+    "region_228": {
+      "edgeTurbulence": 111.852,
+      "localVariance": 108.309,
+      "bleedScore": 50.887,
+      "edgeDensity": 0.26
+    },
+    "region_229": {
+      "edgeTurbulence": 113.374,
+      "localVariance": 105.883,
+      "bleedScore": 49.507,
+      "edgeDensity": 0.27125
+    },
+    "region_230": {
+      "edgeTurbulence": 103.522,
+      "localVariance": 95.412,
+      "bleedScore": 41.453,
+      "edgeDensity": 0.20813
+    },
+    "region_231": {
+      "edgeTurbulence": 110.693,
+      "localVariance": 107.994,
+      "bleedScore": 49.425,
+      "edgeDensity": 0.25188
+    },
+    "region_232": {
+      "edgeTurbulence": 100.413,
+      "localVariance": 74.179,
+      "bleedScore": 36.182,
+      "edgeDensity": 0.19187
+    },
+    "region_233": {
+      "edgeTurbulence": 86.969,
+      "localVariance": 49.334,
+      "bleedScore": 16.39,
+      "edgeDensity": 0.13437
+    },
+    "region_234": {
+      "edgeTurbulence": 102.475,
+      "localVariance": 76.093,
+      "bleedScore": 27.084,
+      "edgeDensity": 0.2025
+    },
+    "region_235": {
+      "edgeTurbulence": 76.712,
+      "localVariance": 22.823,
+      "bleedScore": 8.219,
+      "edgeDensity": 0.10063
+    },
+    "region_236": {
+      "edgeTurbulence": 103.176,
+      "localVariance": 66.987,
+      "bleedScore": 24.224,
+      "edgeDensity": 0.20625
+    },
+    "region_237": {
+      "edgeTurbulence": 93.779,
+      "localVariance": 44.821,
+      "bleedScore": 14.694,
+      "edgeDensity": 0.16125
+    },
+    "region_238": {
+      "edgeTurbulence": 56.553,
+      "localVariance": 18.762,
+      "bleedScore": 5.673,
+      "edgeDensity": 0.05187
+    },
+    "region_239": {
+      "edgeTurbulence": 92.286,
+      "localVariance": 42.217,
+      "bleedScore": 13.122,
+      "edgeDensity": 0.155
+    },
+    "region_240": {
+      "edgeTurbulence": 82.865,
+      "localVariance": 44.884,
+      "bleedScore": 14.928,
+      "edgeDensity": 0.12
+    },
+    "region_241": {
+      "edgeTurbulence": 73.881,
+      "localVariance": 20.172,
+      "bleedScore": 6.594,
+      "edgeDensity": 0.0925
+    },
+    "region_242": {
+      "edgeTurbulence": 79.388,
+      "localVariance": 34.266,
+      "bleedScore": 11.258,
+      "edgeDensity": 0.10875
+    },
+    "region_243": {
+      "edgeTurbulence": 94.362,
+      "localVariance": 40.511,
+      "bleedScore": 13.746,
+      "edgeDensity": 0.16375
+    },
+    "region_244": {
+      "edgeTurbulence": 76.5,
+      "localVariance": 28.003,
+      "bleedScore": 9.555,
+      "edgeDensity": 0.1
+    },
+    "region_245": {
+      "edgeTurbulence": 79.588,
+      "localVariance": 42.858,
+      "bleedScore": 15.59,
+      "edgeDensity": 0.10938
+    },
+    "region_246": {
+      "edgeTurbulence": 76.073,
+      "localVariance": 29.31,
+      "bleedScore": 10.554,
+      "edgeDensity": 0.09875
+    },
+    "region_247": {
+      "edgeTurbulence": 95.223,
+      "localVariance": 63.974,
+      "bleedScore": 36.458,
+      "edgeDensity": 0.1675
+    },
+    "region_248": {
+      "edgeTurbulence": 101.76,
+      "localVariance": 81.559,
+      "bleedScore": 41.701,
+      "edgeDensity": 0.19875
+    },
+    "region_249": {
+      "edgeTurbulence": 95.505,
+      "localVariance": 75.987,
+      "bleedScore": 34.878,
+      "edgeDensity": 0.16875
+    },
+    "region_250": {
+      "edgeTurbulence": 99.784,
+      "localVariance": 74.466,
+      "bleedScore": 38.171,
+      "edgeDensity": 0.18875
+    },
+    "region_251": {
+      "edgeTurbulence": 99.911,
+      "localVariance": 76.84,
+      "bleedScore": 39.691,
+      "edgeDensity": 0.18937
+    },
+    "region_252": {
+      "edgeTurbulence": 95.08,
+      "localVariance": 72.956,
+      "bleedScore": 37.614,
+      "edgeDensity": 0.16687
+    },
+    "region_253": {
+      "edgeTurbulence": 72.747,
+      "localVariance": 22.457,
+      "bleedScore": 7.178,
+      "edgeDensity": 0.08937
+    },
+    "region_254": {
+      "edgeTurbulence": 88.482,
+      "localVariance": 50.674,
+      "bleedScore": 16.104,
+      "edgeDensity": 0.14
+    },
+    "region_255": {
+      "edgeTurbulence": 95.505,
+      "localVariance": 51.441,
+      "bleedScore": 16.295,
+      "edgeDensity": 0.16875
+    },
+    "region_256": {
+      "edgeTurbulence": 57.192,
+      "localVariance": 19.066,
+      "bleedScore": 6.755,
+      "edgeDensity": 0.05312
+    },
+    "region_257": {
+      "edgeTurbulence": 97.433,
+      "localVariance": 60.701,
+      "bleedScore": 17.346,
+      "edgeDensity": 0.1775
+    },
+    "region_258": {
+      "edgeTurbulence": 94.938,
+      "localVariance": 69.215,
+      "bleedScore": 23.731,
+      "edgeDensity": 0.16625
+    },
+    "region_259": {
+      "edgeTurbulence": 82.491,
+      "localVariance": 45.983,
+      "bleedScore": 13.924,
+      "edgeDensity": 0.11875
+    },
+    "region_260": {
+      "edgeTurbulence": 80.183,
+      "localVariance": 54.279,
+      "bleedScore": 17.622,
+      "edgeDensity": 0.11125
+    },
+    "region_261": {
+      "edgeTurbulence": 71.587,
+      "localVariance": 39.674,
+      "bleedScore": 14.045,
+      "edgeDensity": 0.08625
+    },
+    "region_262": {
+      "edgeTurbulence": 69.914,
+      "localVariance": 25.279,
+      "bleedScore": 8.44,
+      "edgeDensity": 0.08188
+    },
+    "region_263": {
+      "edgeTurbulence": 98.232,
+      "localVariance": 57.647,
+      "bleedScore": 20.279,
+      "edgeDensity": 0.18125
+    },
+    "region_264": {
+      "edgeTurbulence": 85.757,
+      "localVariance": 51.304,
+      "bleedScore": 18.114,
+      "edgeDensity": 0.13
+    },
+    "region_265": {
+      "edgeTurbulence": 76.5,
+      "localVariance": 30.311,
+      "bleedScore": 9.914,
+      "edgeDensity": 0.1
+    },
+    "region_266": {
+      "edgeTurbulence": 84.872,
+      "localVariance": 42.148,
+      "bleedScore": 13.275,
+      "edgeDensity": 0.12687
+    },
+    "region_267": {
+      "edgeTurbulence": 77.759,
+      "localVariance": 31.292,
+      "bleedScore": 11.284,
+      "edgeDensity": 0.10375
+    },
+    "region_268": {
+      "edgeTurbulence": 53.211,
+      "localVariance": 19.581,
+      "bleedScore": 7.554,
+      "edgeDensity": 0.04562
+    },
+    "region_269": {
+      "edgeTurbulence": 81.734,
+      "localVariance": 39.137,
+      "bleedScore": 12.64,
+      "edgeDensity": 0.11625
+    },
+    "region_270": {
+      "edgeTurbulence": 89.463,
+      "localVariance": 52.691,
+      "bleedScore": 16.352,
+      "edgeDensity": 0.14375
+    },
+    "region_271": {
+      "edgeTurbulence": 68.183,
+      "localVariance": 21.657,
+      "bleedScore": 9.36,
+      "edgeDensity": 0.0775
+    },
+    "region_272": {
+      "edgeTurbulence": 68.932,
+      "localVariance": 28.069,
+      "bleedScore": 10.898,
+      "edgeDensity": 0.07938
+    },
+    "region_273": {
+      "edgeTurbulence": 72.287,
+      "localVariance": 26.554,
+      "bleedScore": 8.348,
+      "edgeDensity": 0.08812
+    },
+    "region_274": {
+      "edgeTurbulence": 74.77,
+      "localVariance": 24.446,
+      "bleedScore": 7.131,
+      "edgeDensity": 0.095
+    },
+    "region_275": {
+      "edgeTurbulence": 92.739,
+      "localVariance": 38.872,
+      "bleedScore": 10.486,
+      "edgeDensity": 0.15687
+    },
+    "region_276": {
+      "edgeTurbulence": 75.208,
+      "localVariance": 46.253,
+      "bleedScore": 14.723,
+      "edgeDensity": 0.09625
+    },
+    "region_277": {
+      "edgeTurbulence": 67.421,
+      "localVariance": 20.701,
+      "bleedScore": 6.123,
+      "edgeDensity": 0.07562
+    },
+    "region_278": {
+      "edgeTurbulence": 82.865,
+      "localVariance": 36.667,
+      "bleedScore": 11.921,
+      "edgeDensity": 0.12
+    },
+    "region_279": {
+      "edgeTurbulence": 93.632,
+      "localVariance": 63.483,
+      "bleedScore": 23.696,
+      "edgeDensity": 0.16062
+    },
+    "region_280": {
+      "edgeTurbulence": 80.183,
+      "localVariance": 44.356,
+      "bleedScore": 15.166,
+      "edgeDensity": 0.11125
+    },
+    "region_281": {
+      "edgeTurbulence": 88.647,
+      "localVariance": 33.249,
+      "bleedScore": 9.519,
+      "edgeDensity": 0.14062
+    },
+    "region_282": {
+      "edgeTurbulence": 86.798,
+      "localVariance": 51.317,
+      "bleedScore": 16.747,
+      "edgeDensity": 0.13375
+    },
+    "region_283": {
+      "edgeTurbulence": 74.105,
+      "localVariance": 29.081,
+      "bleedScore": 8.226,
+      "edgeDensity": 0.09312
+    },
+    "region_284": {
+      "edgeTurbulence": 96.481,
+      "localVariance": 54.945,
+      "bleedScore": 17.197,
+      "edgeDensity": 0.17313
+    },
+    "region_285": {
+      "edgeTurbulence": 80.575,
+      "localVariance": 45.112,
+      "bleedScore": 15.252,
+      "edgeDensity": 0.1125
+    },
+    "region_286": {
+      "edgeTurbulence": 74.549,
+      "localVariance": 26.087,
+      "bleedScore": 7.374,
+      "edgeDensity": 0.09438
+    },
+    "region_287": {
+      "edgeTurbulence": 102.119,
+      "localVariance": 73.481,
+      "bleedScore": 27.114,
+      "edgeDensity": 0.20062
+    },
+    "region_288": {
+      "edgeTurbulence": 85.582,
+      "localVariance": 51.973,
+      "bleedScore": 19.165,
+      "edgeDensity": 0.12937
+    },
+    "region_289": {
+      "edgeTurbulence": 67.421,
+      "localVariance": 23.286,
+      "bleedScore": 7.985,
+      "edgeDensity": 0.07562
+    },
+    "region_290": {
+      "edgeTurbulence": 74.989,
+      "localVariance": 46.434,
+      "bleedScore": 16.049,
+      "edgeDensity": 0.09563
+    },
+    "region_291": {
+      "edgeTurbulence": 96.481,
+      "localVariance": 64.293,
+      "bleedScore": 21.096,
+      "edgeDensity": 0.17313
+    },
+    "region_292": {
+      "edgeTurbulence": 63.423,
+      "localVariance": 25.288,
+      "bleedScore": 8.134,
+      "edgeDensity": 0.06625
+    },
+    "region_293": {
+      "edgeTurbulence": 81.158,
+      "localVariance": 24.247,
+      "bleedScore": 8.633,
+      "edgeDensity": 0.11438
+    },
+    "region_294": {
+      "edgeTurbulence": 82.303,
+      "localVariance": 49.386,
+      "bleedScore": 16.638,
+      "edgeDensity": 0.11812
+    },
+    "region_295": {
+      "edgeTurbulence": 50.342,
+      "localVariance": 16.973,
+      "bleedScore": 5.121,
+      "edgeDensity": 0.04063
+    },
+    "region_296": {
+      "edgeTurbulence": 76.287,
+      "localVariance": 33.159,
+      "bleedScore": 10.692,
+      "edgeDensity": 0.09938
+    },
+    "region_297": {
+      "edgeTurbulence": 70.638,
+      "localVariance": 40.533,
+      "bleedScore": 12.569,
+      "edgeDensity": 0.08375
+    },
+    "region_298": {
+      "edgeTurbulence": 61.726,
+      "localVariance": 15.084,
+      "bleedScore": 4.339,
+      "edgeDensity": 0.0625
+    },
+    "region_299": {
+      "edgeTurbulence": 83.051,
+      "localVariance": 44.641,
+      "bleedScore": 14.517,
+      "edgeDensity": 0.12062
+    },
+    "region_300": {
+      "edgeTurbulence": 82.678,
+      "localVariance": 45.415,
+      "bleedScore": 14.397,
+      "edgeDensity": 0.11937
+    },
+    "region_301": {
+      "edgeTurbulence": 71.821,
+      "localVariance": 23.501,
+      "bleedScore": 6.966,
+      "edgeDensity": 0.08687
+    },
+    "region_302": {
+      "edgeTurbulence": 89.946,
+      "localVariance": 37.134,
+      "bleedScore": 10.267,
+      "edgeDensity": 0.14563
+    },
+    "region_303": {
+      "edgeTurbulence": 91.209,
+      "localVariance": 46.956,
+      "bleedScore": 13.829,
+      "edgeDensity": 0.15063
+    },
+    "region_304": {
+      "edgeTurbulence": 62.298,
+      "localVariance": 25.07,
+      "bleedScore": 8.633,
+      "edgeDensity": 0.06375
+    },
+    "region_305": {
+      "edgeTurbulence": 85.582,
+      "localVariance": 48.959,
+      "bleedScore": 16.016,
+      "edgeDensity": 0.12937
+    },
+    "region_306": {
+      "edgeTurbulence": 73.881,
+      "localVariance": 39.89,
+      "bleedScore": 13.923,
+      "edgeDensity": 0.0925
+    },
+    "region_307": {
+      "edgeTurbulence": 75.858,
+      "localVariance": 28.973,
+      "bleedScore": 8.663,
+      "edgeDensity": 0.09813
+    },
+    "region_308": {
+      "edgeTurbulence": 97.028,
+      "localVariance": 58.831,
+      "bleedScore": 20.332,
+      "edgeDensity": 0.17563
+    },
+    "region_309": {
+      "edgeTurbulence": 69.671,
+      "localVariance": 31.755,
+      "bleedScore": 10.671,
+      "edgeDensity": 0.08125
+    },
+    "region_310": {
+      "edgeTurbulence": 82.303,
+      "localVariance": 28.131,
+      "bleedScore": 10.533,
+      "edgeDensity": 0.11812
+    },
+    "region_311": {
+      "edgeTurbulence": 81.734,
+      "localVariance": 39.763,
+      "bleedScore": 14.371,
+      "edgeDensity": 0.11625
+    },
+    "region_312": {
+      "edgeTurbulence": 80.964,
+      "localVariance": 37.456,
+      "bleedScore": 13.334,
+      "edgeDensity": 0.11375
+    },
+    "region_313": {
+      "edgeTurbulence": 70.157,
+      "localVariance": 23.366,
+      "bleedScore": 7.582,
+      "edgeDensity": 0.0825
+    },
+    "region_314": {
+      "edgeTurbulence": 84.693,
+      "localVariance": 54.051,
+      "bleedScore": 18.913,
+      "edgeDensity": 0.12625
+    },
+    "region_315": {
+      "edgeTurbulence": 82.303,
+      "localVariance": 49.051,
+      "bleedScore": 14.249,
+      "edgeDensity": 0.11812
+    },
+    "region_316": {
+      "edgeTurbulence": 73.881,
+      "localVariance": 21.348,
+      "bleedScore": 5.585,
+      "edgeDensity": 0.0925
+    },
+    "region_317": {
+      "edgeTurbulence": 49.215,
+      "localVariance": 15.326,
+      "bleedScore": 5.4,
+      "edgeDensity": 0.03875
+    },
+    "region_318": {
+      "edgeTurbulence": 60.263,
+      "localVariance": 41.738,
+      "bleedScore": 12.68,
+      "edgeDensity": 0.05937
+    },
+    "region_319": {
+      "edgeTurbulence": 69.426,
+      "localVariance": 27.343,
+      "bleedScore": 6.617,
+      "edgeDensity": 0.08063
+    },
+    "region_320": {
+      "edgeTurbulence": 67.165,
+      "localVariance": 35.747,
+      "bleedScore": 12.758,
+      "edgeDensity": 0.075
+    },
+    "region_321": {
+      "edgeTurbulence": 51.44,
+      "localVariance": 31.055,
+      "bleedScore": 10.319,
+      "edgeDensity": 0.0425
+    },
+    "region_322": {
+      "edgeTurbulence": 25.372,
+      "localVariance": 9.942,
+      "bleedScore": 3.86,
+      "edgeDensity": 0.01
+    },
+    "region_323": {
+      "edgeTurbulence": 63.976,
+      "localVariance": 29.504,
+      "bleedScore": 10.479,
+      "edgeDensity": 0.0675
+    },
+    "region_324": {
+      "edgeTurbulence": 98.626,
+      "localVariance": 65.426,
+      "bleedScore": 20.517,
+      "edgeDensity": 0.18313
+    },
+    "region_325": {
+      "edgeTurbulence": 78.58,
+      "localVariance": 31.473,
+      "bleedScore": 10.834,
+      "edgeDensity": 0.10625
+    },
+    "region_326": {
+      "edgeTurbulence": 96.065,
+      "localVariance": 51.036,
+      "bleedScore": 14.948,
+      "edgeDensity": 0.17125
+    },
+    "region_327": {
+      "edgeTurbulence": 86.626,
+      "localVariance": 53.382,
+      "bleedScore": 16.761,
+      "edgeDensity": 0.13312
+    },
+    "region_328": {
+      "edgeTurbulence": 75.858,
+      "localVariance": 31.601,
+      "bleedScore": 12.327,
+      "edgeDensity": 0.09813
+    },
+    "region_329": {
+      "edgeTurbulence": 80.379,
+      "localVariance": 40.614,
+      "bleedScore": 13.345,
+      "edgeDensity": 0.11188
+    },
+    "region_330": {
+      "edgeTurbulence": 91.365,
+      "localVariance": 46.578,
+      "bleedScore": 14.998,
+      "edgeDensity": 0.15125
+    },
+    "region_331": {
+      "edgeTurbulence": 73.657,
+      "localVariance": 26.334,
+      "bleedScore": 8.629,
+      "edgeDensity": 0.09187
+    },
+    "region_332": {
+      "edgeTurbulence": 92.134,
+      "localVariance": 54.635,
+      "bleedScore": 18.509,
+      "edgeDensity": 0.15438
+    },
+    "region_333": {
+      "edgeTurbulence": 74.77,
+      "localVariance": 41.759,
+      "bleedScore": 14.224,
+      "edgeDensity": 0.095
+    },
+    "region_334": {
+      "edgeTurbulence": 70.877,
+      "localVariance": 21.459,
+      "bleedScore": 6.358,
+      "edgeDensity": 0.08438
+    },
+    "region_335": {
+      "edgeTurbulence": 75.643,
+      "localVariance": 45.301,
+      "bleedScore": 13.597,
+      "edgeDensity": 0.0975
+    },
+    "region_336": {
+      "edgeTurbulence": 64.25,
+      "localVariance": 21.846,
+      "bleedScore": 6.642,
+      "edgeDensity": 0.06813
+    },
+    "region_337": {
+      "edgeTurbulence": 46.049,
+      "localVariance": 15.238,
+      "bleedScore": 6.939,
+      "edgeDensity": 0.03375
+    },
+    "region_338": {
+      "edgeTurbulence": 58.445,
+      "localVariance": 16.764,
+      "bleedScore": 8.516,
+      "edgeDensity": 0.05563
+    },
+    "region_339": {
+      "edgeTurbulence": 73.881,
+      "localVariance": 38.672,
+      "bleedScore": 14.996,
+      "edgeDensity": 0.0925
+    },
+    "region_340": {
+      "edgeTurbulence": 92.286,
+      "localVariance": 80.68,
+      "bleedScore": 30.833,
+      "edgeDensity": 0.155
+    },
+    "region_341": {
+      "edgeTurbulence": 83.605,
+      "localVariance": 68.199,
+      "bleedScore": 29.831,
+      "edgeDensity": 0.1225
+    },
+    "region_342": {
+      "edgeTurbulence": 90.424,
+      "localVariance": 79.828,
+      "bleedScore": 33.796,
+      "edgeDensity": 0.1475
+    },
+    "region_343": {
+      "edgeTurbulence": 59.965,
+      "localVariance": 22.684,
+      "bleedScore": 10.867,
+      "edgeDensity": 0.05875
+    },
+    "region_344": {
+      "edgeTurbulence": 88.647,
+      "localVariance": 49.163,
+      "bleedScore": 14.936,
+      "edgeDensity": 0.14062
+    },
+    "region_345": {
+      "edgeTurbulence": 90.897,
+      "localVariance": 46.057,
+      "bleedScore": 14.354,
+      "edgeDensity": 0.14938
+    },
+    "region_346": {
+      "edgeTurbulence": 74.105,
+      "localVariance": 28.453,
+      "bleedScore": 7.897,
+      "edgeDensity": 0.09312
+    },
+    "region_347": {
+      "edgeTurbulence": 74.328,
+      "localVariance": 34.212,
+      "bleedScore": 11.397,
+      "edgeDensity": 0.09375
+    },
+    "region_348": {
+      "edgeTurbulence": 97.028,
+      "localVariance": 60.739,
+      "bleedScore": 20.381,
+      "edgeDensity": 0.17563
+    },
+    "region_349": {
+      "edgeTurbulence": 65.862,
+      "localVariance": 23.299,
+      "bleedScore": 8.025,
+      "edgeDensity": 0.07187
+    },
+    "region_350": {
+      "edgeTurbulence": 81.924,
+      "localVariance": 49.541,
+      "bleedScore": 16.367,
+      "edgeDensity": 0.11688
+    },
+    "region_351": {
+      "edgeTurbulence": 55.576,
+      "localVariance": 38.354,
+      "bleedScore": 13.616,
+      "edgeDensity": 0.05
+    },
+    "region_352": {
+      "edgeTurbulence": 77.133,
+      "localVariance": 30.325,
+      "bleedScore": 8.033,
+      "edgeDensity": 0.10187
+    },
+    "region_353": {
+      "edgeTurbulence": 85.932,
+      "localVariance": 34.1,
+      "bleedScore": 10.582,
+      "edgeDensity": 0.13062
+    },
+    "region_354": {
+      "edgeTurbulence": 76.712,
+      "localVariance": 29.316,
+      "bleedScore": 9.492,
+      "edgeDensity": 0.10063
+    },
+    "region_355": {
+      "edgeTurbulence": 74.549,
+      "localVariance": 27.162,
+      "bleedScore": 7.907,
+      "edgeDensity": 0.09438
+    },
+    "region_356": {
+      "edgeTurbulence": 66.648,
+      "localVariance": 20.142,
+      "bleedScore": 7.285,
+      "edgeDensity": 0.07375
+    },
+    "region_357": {
+      "edgeTurbulence": 90.424,
+      "localVariance": 72.101,
+      "bleedScore": 30.034,
+      "edgeDensity": 0.1475
+    },
+    "region_358": {
+      "edgeTurbulence": 90.106,
+      "localVariance": 65.481,
+      "bleedScore": 28.7,
+      "edgeDensity": 0.14625
+    },
+    "region_359": {
+      "edgeTurbulence": 100.162,
+      "localVariance": 85.678,
+      "bleedScore": 31.616,
+      "edgeDensity": 0.19062
+    },
+    "region_360": {
+      "edgeTurbulence": 97.299,
+      "localVariance": 81.373,
+      "bleedScore": 30.797,
+      "edgeDensity": 0.17688
+    },
+    "region_361": {
+      "edgeTurbulence": 92.286,
+      "localVariance": 72.081,
+      "bleedScore": 33.137,
+      "edgeDensity": 0.155
+    },
+    "region_362": {
+      "edgeTurbulence": 92.134,
+      "localVariance": 73.268,
+      "bleedScore": 32.947,
+      "edgeDensity": 0.15438
+    },
+    "region_363": {
+      "edgeTurbulence": 68.932,
+      "localVariance": 32.484,
+      "bleedScore": 13.141,
+      "edgeDensity": 0.07938
+    },
+    "region_364": {
+      "edgeTurbulence": 72.287,
+      "localVariance": 28.189,
+      "bleedScore": 8.678,
+      "edgeDensity": 0.08812
+    },
+    "region_365": {
+      "edgeTurbulence": 78.171,
+      "localVariance": 34.598,
+      "bleedScore": 11.042,
+      "edgeDensity": 0.105
+    },
+    "region_366": {
+      "edgeTurbulence": 81.543,
+      "localVariance": 43.947,
+      "bleedScore": 13.813,
+      "edgeDensity": 0.11563
+    },
+    "region_367": {
+      "edgeTurbulence": 64.25,
+      "localVariance": 18.537,
+      "bleedScore": 6.687,
+      "edgeDensity": 0.06813
+    },
+    "region_368": {
+      "edgeTurbulence": 82.114,
+      "localVariance": 32.514,
+      "bleedScore": 12.004,
+      "edgeDensity": 0.1175
+    },
+    "region_369": {
+      "edgeTurbulence": 74.328,
+      "localVariance": 37.408,
+      "bleedScore": 13.006,
+      "edgeDensity": 0.09375
+    },
+    "region_370": {
+      "edgeTurbulence": 65.33,
+      "localVariance": 21.58,
+      "bleedScore": 6.949,
+      "edgeDensity": 0.07062
+    },
+    "region_371": {
+      "edgeTurbulence": 66.387,
+      "localVariance": 33.997,
+      "bleedScore": 12.473,
+      "edgeDensity": 0.07312
+    },
+    "region_372": {
+      "edgeTurbulence": 93.779,
+      "localVariance": 44.415,
+      "bleedScore": 12.356,
+      "edgeDensity": 0.16125
+    },
+    "region_373": {
+      "edgeTurbulence": 55.904,
+      "localVariance": 20.626,
+      "bleedScore": 6.436,
+      "edgeDensity": 0.05063
+    },
+    "region_374": {
+      "edgeTurbulence": 77.551,
+      "localVariance": 38.648,
+      "bleedScore": 11.977,
+      "edgeDensity": 0.10312
+    },
+    "region_375": {
+      "edgeTurbulence": 64.522,
+      "localVariance": 26.025,
+      "bleedScore": 8.35,
+      "edgeDensity": 0.06875
+    },
+    "region_376": {
+      "edgeTurbulence": 23.748,
+      "localVariance": 10.248,
+      "bleedScore": 3.849,
+      "edgeDensity": 0.00875
+    },
+    "region_377": {
+      "edgeTurbulence": 85.582,
+      "localVariance": 72.988,
+      "bleedScore": 28.428,
+      "edgeDensity": 0.12937
+    },
+    "region_378": {
+      "edgeTurbulence": 88.975,
+      "localVariance": 68.559,
+      "bleedScore": 28.046,
+      "edgeDensity": 0.14188
+    },
+    "region_379": {
+      "edgeTurbulence": 99.784,
+      "localVariance": 85.512,
+      "bleedScore": 32.649,
+      "edgeDensity": 0.18875
+    },
+    "region_380": {
+      "edgeTurbulence": 99.784,
+      "localVariance": 85.34,
+      "bleedScore": 28.882,
+      "edgeDensity": 0.18875
+    },
+    "region_381": {
+      "edgeTurbulence": 92.437,
+      "localVariance": 76.685,
+      "bleedScore": 29.879,
+      "edgeDensity": 0.15563
+    },
+    "region_382": {
+      "edgeTurbulence": 92.286,
+      "localVariance": 81.7,
+      "bleedScore": 31.216,
+      "edgeDensity": 0.155
+    },
+    "region_383": {
+      "edgeTurbulence": 73.881,
+      "localVariance": 41.424,
+      "bleedScore": 17.847,
+      "edgeDensity": 0.0925
+    },
+    "region_384": {
+      "edgeTurbulence": 77.133,
+      "localVariance": 35.521,
+      "bleedScore": 12.928,
+      "edgeDensity": 0.10187
+    },
+    "region_385": {
+      "edgeTurbulence": 73.881,
+      "localVariance": 41.665,
+      "bleedScore": 16.185,
+      "edgeDensity": 0.0925
+    },
+    "region_386": {
+      "edgeTurbulence": 72.976,
+      "localVariance": 49.461,
+      "bleedScore": 18.216,
+      "edgeDensity": 0.09
+    },
+    "region_387": {
+      "edgeTurbulence": 67.93,
+      "localVariance": 41.448,
+      "bleedScore": 15.072,
+      "edgeDensity": 0.07687
+    },
+    "region_388": {
+      "edgeTurbulence": 60.263,
+      "localVariance": 30.474,
+      "bleedScore": 12.174,
+      "edgeDensity": 0.05937
+    },
+    "region_389": {
+      "edgeTurbulence": 79.187,
+      "localVariance": 47.486,
+      "bleedScore": 16.804,
+      "edgeDensity": 0.10812
+    },
+    "region_390": {
+      "edgeTurbulence": 72.054,
+      "localVariance": 46.016,
+      "bleedScore": 17.122,
+      "edgeDensity": 0.0875
+    },
+    "region_391": {
+      "edgeTurbulence": 71.587,
+      "localVariance": 42.438,
+      "bleedScore": 15.228,
+      "edgeDensity": 0.08625
+    },
+    "region_392": {
+      "edgeTurbulence": 91.365,
+      "localVariance": 53.384,
+      "bleedScore": 18.596,
+      "edgeDensity": 0.15125
+    },
+    "region_393": {
+      "edgeTurbulence": 80.77,
+      "localVariance": 48.249,
+      "bleedScore": 17.034,
+      "edgeDensity": 0.11313
+    },
+    "region_394": {
+      "edgeTurbulence": 57.823,
+      "localVariance": 25.389,
+      "bleedScore": 10.197,
+      "edgeDensity": 0.05437
+    },
+    "region_395": {
+      "edgeTurbulence": 67.165,
+      "localVariance": 38.86,
+      "bleedScore": 13.158,
+      "edgeDensity": 0.075
+    },
+    "region_396": {
+      "edgeTurbulence": 77.133,
+      "localVariance": 44.532,
+      "bleedScore": 15.21,
+      "edgeDensity": 0.10187
+    },
+    "region_397": {
+      "edgeTurbulence": 92.437,
+      "localVariance": 72.518,
+      "bleedScore": 26.087,
+      "edgeDensity": 0.15563
+    },
+    "region_398": {
+      "edgeTurbulence": 95.505,
+      "localVariance": 75.861,
+      "bleedScore": 26.058,
+      "edgeDensity": 0.16875
+    },
+    "region_399": {
+      "edgeTurbulence": 99.911,
+      "localVariance": 74.374,
+      "bleedScore": 25.435,
+      "edgeDensity": 0.18937
+    }
+  },
+  "PhysicalPrintData": {
+    "edgeTurbulence": 80.095,
+    "localVariance": 58.163,
+    "lineContinuity": 47.183,
+    "dotCircularity": 0.69,
+    "bleedScore": 14.089
+  },
+  "QRGeometryData": {
+    "moduleUniformity": 0.024,
+    "edgeTurbulence": 45.287,
+    "spacingVariance": 0,
+    "cornerSharpness": 200.0,
+    "syntheticRisk": 45
+  }
+}

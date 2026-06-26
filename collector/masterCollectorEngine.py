@@ -111,8 +111,7 @@ if __name__ == "__main__":
 
     warped_image_output=str(PROJECT_ROOT / "collector" / f"{Path(image_path).stem}WarpedImage.jpg")
 
-    metaJson=metaData("Gemini_Clicked_Sunlight_test40_perfect","Iphone16","Day_6:00pm",False,"medium","ai",4)
-
+    metaJson=metaData("Sunlight_GENUINE_A12_test40","SamsungA12","Day_4:00pm",False,"medium","Genuine",4)
     # print(metaJson)
 
     if not metaJson:
